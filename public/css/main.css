@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.logo{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    font-family: 'Poppins', sans-serif;
+    border-bottom: 1px solid black;
+}
+
+.two-peeps{
+      text-align: center;  
+}
+
+.container{
+    margin-top: 100px;
+}
+
